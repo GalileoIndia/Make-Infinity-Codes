@@ -31,7 +31,6 @@ void setup()
 // Therefore, we have : pinMode(13, OUTPUT) in our code.
 pinMode(13, OUTPUT);
 }
-Code continues on next page...
 // After setup() finishes, the loop() function runs over and over
 // again, forever.
 void loop()
